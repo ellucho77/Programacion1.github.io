@@ -1,0 +1,37 @@
+.app-container {
+    position: relative;
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 1px; 
+    background-color: black;
+    margin-bottom: -30px; /* Elimina el margen inferior del header */
+}
+
+body, html {
+    height: 100%; /* Asegura que el cuerpo y el html ocupen toda la altura */
+    margin: 0; /* Elimina márgenes predeterminados */
+}
+
+main {
+    background-image: url('Sin-título-3.jpg'); /* Cambia por la ruta de tu imagen */
+    background-size: cover; /* Cubre todo el contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* No repite la imagen */
+    min-height: 100vh; /* Ocupa toda la altura de la ventana */
+   
+    color: white; /* Color del texto si es necesario */
+    margin: 0; /* Asegúrate de que no haya márgenes */
+    padding: 0; /* Elimina padding adicional */
+}
+
+
+.card {
+    background-color: rgba(255, 255, 255, 0.5); /* Fondo blanco con 50% de transparencia */
+    border-radius: 10px; /* Bordes redondeados */
+    color: black; /* Color del texto negro */
+}
+

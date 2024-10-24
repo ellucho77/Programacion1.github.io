@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "Demon Days",
+        "artista": "Gorillaz",
+        "id": 1,
+        "portada": "discografia2-1.jpg",
+        "pistas": [
+            { "nombre": "Intro", "duracion": 69 },
+            { "nombre": "Last Living Souls", "duracion": 208 },
+            { "nombre": "Kids with Guns", "duracion": 220 },
+            { "nombre": "O Green World", "duracion": 303 },
+            { "nombre": "Dirty Harry", "duracion": 219 },
+            { "nombre": "Feel Good Inc.", "duracion": 217 }
+        ]
+    },
+    {
+        "nombre": "Plastic Beach",
+        "artista": "Gorillaz",
+        "id": 2,
+        "portada": "discografia1-1.jpg",
+        "pistas": [
+            { "nombre": "Orchestral Intro", "duracion": 80 },
+            { "nombre": "Welcome to the World of the Plastic Beach", "duracion": 223 },
+            { "nombre": "Rhinestone Eyes", "duracion": 204 },
+            { "nombre": "Stylo", "duracion": 261 },
+            { "nombre": "Superfast Jellyfish", "duracion": 158 }
+        ]
+    },
+    {
+        "nombre": "Humanz",
+        "artista": "Gorillaz",
+        "id": 3,
+        "portada": "discografia3-1.jpg",
+        "pistas": [
+            { "nombre": "Ascension", "duracion": 145 },
+            { "nombre": "Strobelite", "duracion": 212 },
+            { "nombre": "Saturnz Barz", "duracion": 182 },
+            { "nombre": "Momentz", "duracion": 234 },
+            { "nombre": "Submission", "duracion": 227 }
+        ]
+    },
+    {
+        "nombre": "Gorillaz",
+        "artista": "Gorillaz",
+        "id": 4,
+        "portada": "discografia4-1.jpg",
+        "pistas": [
+            { "nombre": "Re-Hash", "duracion": 229 },
+            { "nombre": "5/4", "duracion": 158 },
+            { "nombre": "Tomorrow Comes Today", "duracion": 214 },
+            { "nombre": "New Genious (Brother)", "duracion": 208 },
+            { "nombre": "Clint Eastwood", "duracion": 345 },
+            { "nombre": "Man Research (Clapper)", "duracion": 255 },
+            { "nombre": "Punk", "duracion": 98 },
+            { "nombre": "Sound Check (Gravity)", "duracion": 240 },
+            { "nombre": "Double Bass", "duracion": 266 },
+            { "nombre": "Rock the House", "duracion": 255 },
+            { "nombre": "19-2000", "duracion": 225 },
+            { "nombre": "Latin Simone (¿Qué Pasa Contigo?)", "duracion": 202 },
+            { "nombre": "Starshine", "duracion": 209 },
+            { "nombre": "Slow Country", "duracion": 219 },
+            { "nombre": "M1 A1", "duracion": 241 }
+        ]
+    }
+]
